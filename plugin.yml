@@ -5,4 +5,4 @@ commands:
   players:
     description: Gives a list of players in your world.
     aliases: players
-    usage: /players [world | "all"]
+    usage: /online [world | "all"]
